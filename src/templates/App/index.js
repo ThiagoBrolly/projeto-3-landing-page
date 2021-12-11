@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <Styled.Wrapper>
-        <Heading>Hello</Heading>
+        <Heading colorDark={false}>Hello</Heading>
       </Styled.Wrapper>
     </div>
   );
